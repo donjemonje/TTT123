@@ -1,0 +1,18 @@
+D:\OneDrive - Philips\DraughtsGame\ClintTest\ClintTest\bin\Debug\ClintTest.exe.config
+D:\OneDrive - Philips\DraughtsGame\ClintTest\ClintTest\bin\Debug\ClintTest.exe
+D:\OneDrive - Philips\DraughtsGame\ClintTest\ClintTest\bin\Debug\ClintTest.pdb
+D:\OneDrive - Philips\DraughtsGame\ClintTest\ClintTest\obj\Debug\ClintTest.Form1.resources
+D:\OneDrive - Philips\DraughtsGame\ClintTest\ClintTest\obj\Debug\ClintTest.Properties.Resources.resources
+D:\OneDrive - Philips\DraughtsGame\ClintTest\ClintTest\obj\Debug\ClintTest.csproj.GenerateResource.Cache
+D:\OneDrive - Philips\DraughtsGame\ClintTest\ClintTest\obj\Debug\ClintTest.exe
+D:\OneDrive - Philips\DraughtsGame\ClintTest\ClintTest\obj\Debug\ClintTest.pdb
+D:\OneDrive - Philips\DraughtsGame\ClintTest\ClintTest\obj\Debug\ClintTest.csprojResolveAssemblyReference.cache
+C:\Users\donje\לימודים\שנה רביעית\סמסטר ב\ASP.NET\פרויקט סיום\Final Project\DraughtsGameServer\ClintTest\ClintTest\bin\Debug\ClintTest.exe.config
+C:\Users\donje\לימודים\שנה רביעית\סמסטר ב\ASP.NET\פרויקט סיום\Final Project\DraughtsGameServer\ClintTest\ClintTest\obj\Debug\ClintTest.exe
+C:\Users\donje\לימודים\שנה רביעית\סמסטר ב\ASP.NET\פרויקט סיום\Final Project\DraughtsGameServer\ClintTest\ClintTest\obj\Debug\ClintTest.pdb
+C:\Users\donje\לימודים\שנה רביעית\סמסטר ב\ASP.NET\פרויקט סיום\Final Project\DraughtsGameServer\ClintTest\ClintTest\bin\Debug\ClintTest.exe
+C:\Users\donje\לימודים\שנה רביעית\סמסטר ב\ASP.NET\פרויקט סיום\Final Project\DraughtsGameServer\ClintTest\ClintTest\bin\Debug\ClintTest.pdb
+C:\Users\donje\לימודים\שנה רביעית\סמסטר ב\ASP.NET\פרויקט סיום\Final Project\DraughtsGameServer\ClintTest\ClintTest\obj\Debug\ClintTest.csprojResolveAssemblyReference.cache
+C:\Users\donje\לימודים\שנה רביעית\סמסטר ב\ASP.NET\פרויקט סיום\Final Project\DraughtsGameServer\ClintTest\ClintTest\obj\Debug\ClintTest.Form1.resources
+C:\Users\donje\לימודים\שנה רביעית\סמסטר ב\ASP.NET\פרויקט סיום\Final Project\DraughtsGameServer\ClintTest\ClintTest\obj\Debug\ClintTest.Properties.Resources.resources
+C:\Users\donje\לימודים\שנה רביעית\סמסטר ב\ASP.NET\פרויקט סיום\Final Project\DraughtsGameServer\ClintTest\ClintTest\obj\Debug\ClintTest.csproj.GenerateResource.Cache
